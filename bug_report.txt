@@ -1,1 +1,14 @@
 
+Summary: oshibka vhoda na sait pod uchetnymi dannymi 
+Project: site.com 
+Component: main page 
+Severity: S2 
+Priority: P1 
+Author: QA 
+Assigned To: Developer 
+Browser: Firefox 97.0.1 x64 
+Description: pri vvode login and pass glavnaya stranitsa zavisaet 
+Steps_to_Reproduce: Vhod na sait cheres Mozilla Firefox, popytka zaloginitsya 
+Result: Zavisanie saita 
+Expected_Result: Log In site 
+Attachment: Log file. rec of screen 
