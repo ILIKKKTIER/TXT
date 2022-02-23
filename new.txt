@@ -1,0 +1,4 @@
+Name: Mikhuta Ilya Aleksandrovich,
+Age: 26,
+Pets: 1 cat,
+Starting salary: 500 USD
